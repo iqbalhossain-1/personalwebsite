@@ -1,0 +1,146 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+#name{
+    color: rgb(228, 59, 143);
+    font-weight: 900;
+}
+p{
+    color: dimgrey;
+    line-height: 1.5;
+}
+section{
+    height: 600px;
+}
+.halfleft{
+    width: 35%;
+    float: left;
+    margin-left: 15%; 
+    padding-top: 7%;
+}
+.halfleftimg{
+    width: 40%;
+    float: left;
+    margin-left: 15%; 
+    padding-top: 2%;
+}
+.halfleftimg img{
+    width: 65%;
+
+}
+.halfright{
+    float: left;
+    width: 40%;
+    padding-top: 50px;
+}
+.halfright img{
+    width: 70%;
+}
+.top{
+    background-image: url(image/header-bg.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    
+}
+
+.linktop{
+    background-image: linear-gradient(90deg,rgb(252, 101, 101),rgb(158, 0, 137));
+    color: aliceblue;   
+    text-decoration: none;
+    padding:8px 22px;
+    border-radius: 4px;
+}
+.halfrightbio{
+    float: left;
+    width: 40%;
+    padding-top: 16% ;
+}
+.middle{
+    background-image: url(image/biography-bg.png);
+    background-size: contain;
+   
+}
+#latestwork{
+    text-align: center;  
+    height: 400px;
+    
+}
+
+.latestworkimg1{
+    float: left;
+    width: 25%;
+    padding-left: 130px;
+    padding-top: 20px;
+
+}
+.latestworkimg1 img{
+    width: 100%;
+}
+.latestworkimg2{
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+    padding-top: 20px;
+
+}
+.latestworkimg2 img{
+    width: 100%;
+}
+.latestworkimg3{
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+    padding-top: 20px;
+
+}
+.latestworkimg3 img{
+    width: 100%;
+}
+#latestwork{
+    background-image: url(image/latest-work-bg.png);
+    background-size: contain;
+    background-position:right bottom;
+    background-repeat: no-repeat;
+}
+.atend{
+    text-align: center;
+    background-image: url(image/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: 25%;
+    
+}
+#bruce{
+    font-size: 15px;
+    line-height:0%;
+}
+#founder{
+    font-size: 11px;
+    margin-top: -15px;
+    color: dimgrey;
+}
+.lorium{
+    color: black;
+}
+#leavemessage{
+    background-image: linear-gradient(90deg,rgb(214, 115, 145),rgb(212, 44, 162));
+    width: 30%;
+    height: 20%;
+    margin-left: 525px;
+    margin-top: 60px;
+    padding: 20px 30px;
+    border-radius: 10px;
+    
+}
+.message{
+    color: aliceblue;
+    margin-top: 20px;
+    font-size: 15px;
+    
+}
+#gmail{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 0px;
+}
